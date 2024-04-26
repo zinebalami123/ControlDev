@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\DevOps\\Controledev\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F820E340-D61B-48B9-8909-BD8DBE4A4D0E}|Controledev\\Controledev.csproj|c:\\devops\\controledev\\controledev\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F820E340-D61B-48B9-8909-BD8DBE4A4D0E}|Controledev\\Controledev.csproj|solutionrelative:controledev\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\DevOps\\Controledev\\Controledev\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Controledev\\WebForm1.aspx",
+              "ToolTip": "C:\\DevOps\\Controledev\\Controledev\\WebForm1.aspx",
+              "RelativeToolTip": "Controledev\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-25T21:38:20.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
